@@ -1,0 +1,19 @@
+{
+  "name": "final_project_node",
+  "version": "1.0.0",
+  "description": "node.js for final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitmatv/final_project_node.git"
+  },
+  "author": "Dmitry Matveev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitmatv/final_project_node/issues"
+  },
+  "homepage": "https://github.com/dmitmatv/final_project_node#readme"
+}
