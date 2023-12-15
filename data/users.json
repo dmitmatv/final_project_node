@@ -1,0 +1,70 @@
+[
+{
+  "firstName": "A",
+  "lastName": "B",
+  "email": "Ab@gmail.com",
+  "password": "ab",
+  "role": "Reader",
+  "readingList": [
+    { "book": "book1" },
+    { "book": "book2" }
+  ],
+  "writtenList": [],
+  "reviewList": [
+    { "review": "rev1" }
+  ]
+},
+
+
+{
+  "firstName": "C",
+  "lastName": "D",
+  "email": "Cd@gmail.com",
+  "password": "cd",
+  "role": "Author",
+  "readingList": [
+    { "book": "book3" },
+    { "book": "book4" }
+  ],
+  "writtenList": [
+    { "book": "bookY" },
+    { "book": "bookZ" }
+  ],
+  "reviewList": [
+    { "review": "rev2" }
+  ]
+},
+
+
+{
+  "firstName": "E",
+  "lastName": "F",
+  "email": "Ef@gmail.com",
+  "password": "ef",
+  "role": "Admin",
+  "readingList": [
+    { "book": "book5" },
+    { "book": "book6" }
+  ],
+  "writtenList": [],
+  "reviewList": [
+    { "review": "rev3" }
+  ]
+},
+
+{
+  "firstName": "G",
+  "lastName": "H",
+  "email": "Gh@gmail.com",
+  "password": "gh",
+  "role": "Reader",
+  "readingList": [
+    { "book": "book7" },
+    { "book": "book8" }
+  ],
+  "writtenList": [],
+  "reviewList": [
+    { "review": "rev4" }
+  ]
+}
+  ]

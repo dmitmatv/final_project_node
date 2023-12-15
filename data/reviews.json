@@ -1,0 +1,33 @@
+[
+  {
+    "rating": 5,
+    "body": "This is an okay book.",
+    "bookTitle": "Book1"
+  },
+
+  {
+    "rating": 6,
+    "body": "I enjoyed reading this book.",
+    "bookTitle": "Book2"
+  },
+
+
+  {
+    "rating": 4,
+    "body": "Not bad, but could be better.",
+    "bookTitle": "Book3"
+  },
+
+  {
+    "rating": 9,
+    "body": "This book is amazing!",
+    "bookTitle": "Book4"
+  },
+
+  {
+    "rating": 2,
+    "body": "Couldn't get into it, not my type of book.",
+    "bookTitle": "Book5"
+  }
+
+]
